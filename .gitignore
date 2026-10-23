@@ -1,0 +1,21 @@
+# Personal learning & local docs
+docs.html
+GITHUB_GUIDE.md
+
+# Build and log directories
+build/
+cmake-build-*/
+logs/
+*.log
+
+# Compiled binaries and objects
+*.exe
+*.obj
+*.o
+*.out
+*.a
+*.so
+
+# IDE configs
+.vscode/
+.idea/
